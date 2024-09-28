@@ -13,6 +13,6 @@ if you have any suggestion or want me to add any features feel free to open an i
 
 this project is licensed under MIT License, but the project logo is licensed under under CC-BY-NC-SA 4 
 
-# Contirbution
+# Contribution
 
 all contribution are welcome (:
