@@ -25,7 +25,7 @@ delay = 1
 
 "userheader" = username or email header of login page(for example if the website uses this login format "example.com/login?user=testusername&pass=testpassword" the userheader should be "user") 
 
-"passheader" = is the same of "userheader"
+"passheader" = is the same as "userheader"
 
 # Issues
 
