@@ -27,6 +27,8 @@ delay = 1
 
 "passheader" = is the same as "userheader"
 
+and the rest are settings for bruteforcer
+
 # Issues
 
 if you have any suggestion or want me to add any features feel free to open an issue, but please dont open issue asking me or others to hack someone for you
